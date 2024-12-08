@@ -1,3 +1,18 @@
+# Crypto App
+ Swift project to create a real-time cryptocurrency tracking and trading app.
+
+## Features
+-User Registration and Login (Email/Password) <br>
+-Real-Time Crypto Prices <br>
+-Search and Track Cryptocurrencies  <br>
+-Buy and Sell Cryptocurrencies <br>
+-View Account Balance (Bitcoin and other coins) <br>
+-Track Total Profit and Loss <br>
+
+Here some photos of app ;
+
+
+
 <img width="200" alt="Ekran Resmi 2024-03-11 01 57 33" src="https://github.com/beyzatastan/BtcryptoApp/assets/114664291/fcc191fe-809b-4728-be55-70c2e6b04548">
 <img width="200" alt="Ekran Resmi 2024-03-11 01 58 55" src="https://github.com/beyzatastan/BtcryptoApp/assets/114664291/6ecdf336-025d-4040-a436-fb6ab71ade31">
 <img width="200" alt="Ekran Resmi 2024-03-11 01 50 42" src="https://github.com/beyzatastan/BtcryptoApp/assets/114664291/6030365c-6002-4d9f-aadb-f94a45efd9c6">
